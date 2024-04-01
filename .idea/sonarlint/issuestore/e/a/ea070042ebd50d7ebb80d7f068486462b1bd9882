@@ -1,2 +1,5 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(êË•ñùÿÿÿÿ8Î‰ð×é1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­Ù¹8·ÀÖØé1
+r	java:S106"+Replace this use of System.out by a logger.(êË•ñùÿÿÿÿ8Î‰ð×é1J$dbcfd272-a07a-4380-bf85-22862d1f3e64
+
+java:S1068"<Remove this unused "fieldAddedByCollaborator" private field.(Ìý†È8±ýÒØé1J$3898d99a-4cf1-45b5-b681-8c72f05ad9e5
